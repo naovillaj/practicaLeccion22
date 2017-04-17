@@ -1,0 +1,25 @@
+#color1 {
+	background-color: yellow;
+	font-family: 'Raleway', sans-serif;
+	font-size: 25px;
+	margin: 0;
+	height: 70px;
+}
+
+#color2{
+	background-color: pink;
+	border: 2px solid black;
+	font-family: 'Raleway', sans-serif;
+	font-size: 25px;
+	margin: 0;
+	height: 70px;
+}
+
+#color3{
+	background-color: yellow;
+	text-transform: uppercase;
+	font-family: 'Raleway', sans-serif;
+	font-size: 25px;
+	margin: 0;
+	height: 70px;
+}
