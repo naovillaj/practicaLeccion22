@@ -2,18 +2,16 @@
 	background-color: yellow;
 	font-family: 'Raleway', sans-serif;
 	font-size: 25px;
-	margin: 15px;
-	height: 70px;
-	width: 250px;
+	padding: 5px 0;
+	display: inline-block;
 }
 
 #color2{
 	background-color: pink;
 	font-family: 'Raleway', sans-serif;
 	font-size: 25px;
-	margin: 15px;
-	height: 70px;
-	width: 250px;
+	padding: 5px 0;
+	display: inline-block;
 }
 
 #color3{
@@ -21,7 +19,6 @@
 	text-transform: uppercase;
 	font-family: 'Raleway', sans-serif;
 	font-size: 25px;
-	margin: 15px;
-	height: 70px;
-	width: 250px;
+	padding: 5px 0;
+	display: inline-block;
 }
